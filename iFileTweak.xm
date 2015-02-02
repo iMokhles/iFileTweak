@@ -1,5 +1,4 @@
 //
-//  EGYWebViewController.m
 //
 //  Created by Mokhles Hussien on 30.01.2015.
 //  Copyright 2015 iMokhles. All rights reserved.
